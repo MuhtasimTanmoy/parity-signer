@@ -139,13 +139,13 @@ final class SeedsMediator: SeedsMediating {
             if navigate {
                 signerDataModel.navigation.perform(navigation: .init(
                     action: .goForward,
-                    details: Constants.true,
+                    details: Constants.false,
                     seedPhrase: seedPhrase
                 ))
             } else {
                 signerDataModel.navigation.performFake(navigation: .init(
                     action: .goForward,
-                    details: Constants.true,
+                    details: Constants.false,
                     seedPhrase: seedPhrase
                 ))
             }

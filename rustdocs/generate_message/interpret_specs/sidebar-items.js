@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["TokenFetch","Accepted token from `system_properties` RPC call"]],"fn":[["check_specs","Get from `system_properties` RPC call results the network data to be compared with already known data."],["interpret_properties","Transform `system_properties` RPC call results into [`NetworkProperties`]."]]};

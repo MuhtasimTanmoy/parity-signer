@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Error","QR code handling error type."]],"fn":[["decode_sequence",""],["get_length",""],["get_payload",""]],"mod":[["process_payload",""]],"type":[["Result","Qr code handling parsing result."]]};

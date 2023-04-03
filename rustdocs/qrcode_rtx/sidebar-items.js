@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["make_data_packs","function to take data as `Vec<u8>`, apply `raptorq` to get `Vec<EncodingPacket>` and serialize it to get `Vec<u8>` output"],["make_pretty_qr","Function to make appropriately sized qr code, apng or static"],["transform_into_qr_apng","Function to transform input `Vec<u8>` into fountain qr-code"]]};

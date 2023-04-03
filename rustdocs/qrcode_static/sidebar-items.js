@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["DataType","What kind of data goes into QR, to additionally distinguish sensitive QRs with color"]],"fn":[["png_qr","Generate static qr code from slice `&[u8]`"],["png_qr_from_string","Generate static qr code from a string."]]};

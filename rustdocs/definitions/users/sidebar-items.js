@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["AddressDetails","Address key associated non-secret information stored in Vault database"]]};

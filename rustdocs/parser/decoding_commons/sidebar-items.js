@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["get_compact","Function to search `&[u8]` for shortest compact  by brute force. Outputs `CutCompact` value in case of success."]],"struct":[["CutCompact","Struct to store results of searching `Vec<u8>` for encoded compact: consists of actual number decoded, and, if it exists, the beginning position for data after the compact"],["OutputCard",""]]};

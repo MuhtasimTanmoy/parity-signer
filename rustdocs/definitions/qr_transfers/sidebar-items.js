@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ContentAddSpecs","`add_specs` QR code content"],["ContentLoadMeta","`load_metadata` QR code content"],["ContentLoadTypes","`load_types` QR code content"]]};

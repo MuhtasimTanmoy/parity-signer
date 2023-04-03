@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Error",""],["MetadataError","Intrinsic problems of the metadata making it unsuitable for Vault use"],["TransferContent","Error decoding transfer content"]],"type":[["Result",""]]};
